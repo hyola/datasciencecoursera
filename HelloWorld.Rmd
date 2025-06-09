@@ -1,2 +1,0 @@
-Please view the correct file here: 
-[HelloWorld.md](https://github.com/hyola/datasciencecoursera/blob/main/HelloWorld.md)
